@@ -1,0 +1,29 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/compiler.xml
+<<<<<<< HEAD
+/.idea/kotlinc.xml
+=======
+<<<<<<< HEAD
+/.idea/kotlinc.xml
+=======
+/..idea/kotlinc.xml
+>>>>>>> origin/main
+>>>>>>> origin/main
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/.idea/
+/gradle
+.settings.gradle.kts
+/app/build.gradle.kts
